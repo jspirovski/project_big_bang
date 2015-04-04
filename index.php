@@ -5,6 +5,6 @@
 	<title>Project Big Bang</title>
 </head>
 <body>
-	<?php echo "boom"; ?>
+	<?php echo "boom boom boom"; ?>
 </body>
 </html>
